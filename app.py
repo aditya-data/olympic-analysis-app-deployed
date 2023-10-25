@@ -8,9 +8,9 @@ import seaborn as sns
 import plotly.graph_objs as go
 
 
-athletes = pd.read_csv('../archive/athlete_events.csv')
+athletes = pd.read_csv('https://docs.google.com/spreadsheets/d/1bX3jNTylBusiLw8NmIvYJMf8t0x5I8DtJRUoMJEBZwE/edit?usp=sharing')
 
-regions = pd.read_csv('../archive/noc_regions.csv')
+regions = pd.read_csv('https://docs.google.com/spreadsheets/d/1FjF0EbBp98SmeprvA35uI4dK4ktllU3S4JmfhkPu1Ws/edit?usp=sharing')
 
 summer_df, winter_df = preprocess.preprocesser(athletes, regions)
 
