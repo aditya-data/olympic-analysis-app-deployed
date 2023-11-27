@@ -12,6 +12,9 @@ International Recognition: Medal counts are often based on international recogni
 
 Consistency: The IOC strives to maintain consistency in how it handles these situations, and its policies may evolve over time.
 
+Click on this link to have a quick look:
+https://olympic-analysis-app-deployed-evrikkivymbdjrkufxux2k.streamlit.app/
+
 **Features:**
 - Visualize Olympic medal counts by year and country. 
 - Compare performance between Summer and Winter Olympics.
